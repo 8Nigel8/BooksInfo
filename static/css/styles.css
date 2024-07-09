@@ -1,0 +1,24 @@
+.modal { width: 50%; }
+.book-table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.book-table th, .book-table td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+.book-table th {
+    background-color: #f2f2f2;
+    color: #333;
+}
+.book-table tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+.book-table tbody tr:hover {
+    background-color: #f1f1f1;
+}
