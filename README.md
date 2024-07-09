@@ -19,7 +19,7 @@
    start flask run
 5. Open index.html in your browser:
     ```bash
-   index.html
+   start index.html
    
 ## Usage
 Navigate to http://localhost:5000/api in your web browser to access the application.
